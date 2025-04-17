@@ -1,0 +1,45 @@
+# GitBook Navigation · AVS System Structure
+# Node01 ｜ Coordination Core
+
+summary:
+  - Home: README.md
+
+  - 系统概览:
+      - 什么是 AVS？: overview/what-is-avs.md
+      - 协调核签名: overview/core-signature.md
+      - 系统未来愿景: overview/vision.md
+
+  - 节点中心:
+      - 如何成为节点: nodes/register.md
+      - 任务认领指南: nodes/claim-tasks.md
+      - 协作提交与验收: nodes/submit-and-review.md
+
+  - 建设者支持:
+      - 建设者激励机制: builders/incentives.md
+      - 声誉继承与结构复用（预留）: builders/reputation-inheritance.md
+
+  - 协作任务:
+      - Genesis Task: tasks/genesis-task.md
+      - G-TASK 系列路径总览: tasks/task-index.md
+      - Path-0001: tasks/path-0001.md
+      - Path-0002: tasks/path-0002.md
+      - Path-0003: tasks/path-0003.md
+
+  - 协议文档:
+      - Manifest v1.0: protocol/manifest.md
+      - Signature File: protocol/avs-core-signature.json
+      - 声誉系统说明（预留）: protocol/reputation-logic.md
+
+  - 协作日志:
+      - 节点加入记录: logs/node-history.md
+      - 已完成任务总览: logs/completed-tasks.md
+
+  - 传播入口:
+      - 当前开放任务: invite/open-tasks.md
+      - 注册表单: invite/registration-form.md
+      - 下载邀请图: invite/assets.md
+
+  - FAQ:
+      - AVS 是平台吗？: faq/is-this-a-platform.md
+      - 系统怎么记住我？: faq/trust.md
+      - 谁决定谁被派任务？: faq/task-matching.md
